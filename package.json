@@ -28,7 +28,7 @@
     "redux-thunk": "^2.3.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.5",
-    "sequelize": "^3.35.1",
+    "sequelize": "^5.15.1",
     "volleyball": "^1.5.1",
     "webpack-dev-server": "^3.9.0"
   },
